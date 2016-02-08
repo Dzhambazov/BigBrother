@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineSchool.Web", "OnlineSchool.Web\OnlineSchool.Web.csproj", "{603C02B1-5EAE-4606-8C22-0BB7AE566FA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineSchool.Models", "OnlineSchool.Models\OnlineSchool.Models.csproj", "{A33F5CBA-025E-49DA-9BE9-7A2385FD274A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineSchool.Data", "OnlineSchool.Data\OnlineSchool.Data.csproj", "{8FFD3E2F-8FDE-4B6F-B497-1E8048E31305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603C02B1-5EAE-4606-8C22-0BB7AE566FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603C02B1-5EAE-4606-8C22-0BB7AE566FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603C02B1-5EAE-4606-8C22-0BB7AE566FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603C02B1-5EAE-4606-8C22-0BB7AE566FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A33F5CBA-025E-49DA-9BE9-7A2385FD274A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33F5CBA-025E-49DA-9BE9-7A2385FD274A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33F5CBA-025E-49DA-9BE9-7A2385FD274A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33F5CBA-025E-49DA-9BE9-7A2385FD274A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FFD3E2F-8FDE-4B6F-B497-1E8048E31305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FFD3E2F-8FDE-4B6F-B497-1E8048E31305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FFD3E2F-8FDE-4B6F-B497-1E8048E31305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FFD3E2F-8FDE-4B6F-B497-1E8048E31305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

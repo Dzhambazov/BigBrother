@@ -1,0 +1,14 @@
+C:\Users\ndjambazov\Desktop\OnlineSchool\OnlineSchool.Models\bin\Debug\OnlineSchool.Models.dll.config
+C:\Users\ndjambazov\Desktop\OnlineSchool\OnlineSchool.Models\bin\Debug\OnlineSchool.Models.dll
+C:\Users\ndjambazov\Desktop\OnlineSchool\OnlineSchool.Models\bin\Debug\OnlineSchool.Models.pdb
+C:\Users\ndjambazov\Desktop\OnlineSchool\OnlineSchool.Models\bin\Debug\EntityFramework.dll
+C:\Users\ndjambazov\Desktop\OnlineSchool\OnlineSchool.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ndjambazov\Desktop\OnlineSchool\OnlineSchool.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ndjambazov\Desktop\OnlineSchool\OnlineSchool.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ndjambazov\Desktop\OnlineSchool\OnlineSchool.Models\bin\Debug\EntityFramework.xml
+C:\Users\ndjambazov\Desktop\OnlineSchool\OnlineSchool.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ndjambazov\Desktop\OnlineSchool\OnlineSchool.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ndjambazov\Desktop\OnlineSchool\OnlineSchool.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ndjambazov\Desktop\OnlineSchool\OnlineSchool.Models\obj\Debug\OnlineSchool.Models.csprojResolveAssemblyReference.cache
+C:\Users\ndjambazov\Desktop\OnlineSchool\OnlineSchool.Models\obj\Debug\OnlineSchool.Models.dll
+C:\Users\ndjambazov\Desktop\OnlineSchool\OnlineSchool.Models\obj\Debug\OnlineSchool.Models.pdb
