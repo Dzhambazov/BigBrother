@@ -12,6 +12,6 @@ namespace OnlineSchool.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public string Test { get; set; }
+        public string NewTest { get; set; }
     }
 }
